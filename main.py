@@ -1,6 +1,6 @@
 import pygame
 from Kubagame.constants import WIDTH, HEIGHT
-from Kubagame.board import Board
+from Kubagame.game import KubaGame
 
 pygame.init()
 FPS = 60
@@ -10,7 +10,7 @@ pygame.display.set_caption('Kuba Game')
 def main():
     run = True
     clock = pygame.time.Clock()
-    board = Board()
+    game = KubaGame()
 
     while run:
         clock.tick(FPS)
