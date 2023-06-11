@@ -1,4 +1,4 @@
-# portfolio-project
+# KubaGame
 
 Write a class named KubaGame for playing a board game called Kuba. You can see the rules [here](https://sites.google.com/site/boardandpieces/list-of-games/kuba).
 A good video resource to watch this game rules is [here](https://www.youtube.com/watch?v=XglqkfzsXYc).
